@@ -1,0 +1,2 @@
+## This is an extention to the coding without git central repo
+# continue scripting till a repo created
